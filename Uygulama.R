@@ -1,3 +1,8 @@
+# Egitmen: Dr. Zeki Ozen
+# Tarih: 07.02.2025
+# mail: zekiozen@istanbul.edu.tr
+# Konu: R Dili Uygulama Ornegi
+
 
 # iris veri setini yukleyelim
 data(iris)
